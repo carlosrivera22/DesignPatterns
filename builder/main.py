@@ -17,7 +17,6 @@
 # Use cases:
     # Vehicle Manufacturing
     # Student Tests 
-    #
 from director import Director
 from builders import ConcreteBuilder1
 if __name__ == "__main__":
