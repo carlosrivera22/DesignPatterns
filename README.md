@@ -3,5 +3,6 @@
 Implementing design patterns in python. 
 
 ### References: 
-https://www.oodesign.com/
-https://refactoring.guru/
+- https://www.oodesign.com/
+
+- https://refactoring.guru/
